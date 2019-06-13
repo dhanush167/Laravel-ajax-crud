@@ -40,7 +40,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 
 
-![alt text](https://raw.githubusercontent.com/kadawatha/public/screencapture-hdtuto-article-ajax-crud-operations-in-laravel-58-with-modal-pagination-2019-06-13-22_24_17.png)
+![alt text](https://raw.githubusercontent.com/kadawatha/laravel-ajax-crud-yajra-datatable/master/public/screencapture-hdtuto-article-ajax-crud-operations-in-laravel-58-with-modal-pagination-2019-06-13-22_24_17.png)
 
 
 
