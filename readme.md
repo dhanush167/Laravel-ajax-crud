@@ -39,6 +39,29 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 <h2>Install Yajra Datatable Package</h2>
 
 
+    composer require yajra/laravel-datatables-oracle
+    
+    
+    .....
+
+    'providers' => [
+    
+    	....
+    
+    	Yajra\DataTables\DataTablesServiceProvider::class,
+    
+    ]
+    
+    'aliases' => [
+    
+    	....
+    
+    	'DataTables' => Yajra\DataTables\Facades\DataTables::class,
+    
+    ]
+    
+    .....
+
 
 ![alt text](https://raw.githubusercontent.com/kadawatha/laravel-ajax-crud-yajra-datatable/master/public/screencapture-hdtuto-article-ajax-crud-operations-in-laravel-58-with-modal-pagination-2019-06-13-22_24_17.png)
 
